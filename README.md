@@ -9,6 +9,7 @@ This project is a social platform for developers to register, build and publish 
 ## Features
 
 - Register and login for developer accounts
+- Call third-part Api(github api) to get github user data
 - Build and publish profiles
 - View other developers' profiles
 - Create posts and comment on other developers' posts
